@@ -1,4 +1,0 @@
-*.pyc
-*.swp
-*.pid       # this gets created by the develop_server.sh script
-output/
